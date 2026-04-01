@@ -263,5 +263,6 @@ namespace Area_Calculator_App
                 cmbWidth.SelectedIndex = cmbLength.SelectedIndex;
             }
         }
+        //end of cmblength_selected 
     }
 }
